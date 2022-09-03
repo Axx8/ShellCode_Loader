@@ -73,6 +73,17 @@ msf6 exploit(multi/handler) > run
 ![图片](https://user-images.githubusercontent.com/34683107/188175266-31ca4e0b-bb8a-4863-a958-065330c500af.png)
 ![图片](https://user-images.githubusercontent.com/34683107/188175368-ab9d2f0f-2f92-42ca-b8d6-6980d84d3e51.png)
 帮忙点个Star 谢谢
+# 参考链接
+https://mp.weixin.qq.com/s/M3tbE08ybD_lIrJS8FtPTw
+
+https://mp.weixin.qq.com/s/jMHn4trtMjgdSIsRmoVOtw
+
+https://mp.weixin.qq.com/s/2105i9rX4yv6K0emRFr8_g
+
+https://mp.weixin.qq.com/s/VS_c3QClxmCB6raXEfljpg
+
+https://mp.weixin.qq.com/s/4pwbdK6zz4XH7YJxCoA1Lw
+
 # 感谢阅读
 ![图片](https://user-images.githubusercontent.com/34683107/188175429-58a71c93-a603-408f-ac9b-c0b616b6467c.png)
 
