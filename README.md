@@ -3,12 +3,14 @@
 ShellCode_Loader - Msf&amp;CobaltStrike免杀ShellCode加载器、Shellcode_encryption - 免杀Shellcode加密生成工具，目前测试免杀360&amp;火绒&amp;电脑管家&amp;Windows Defender（其他杀软未测试）。
 
 ## 云沙箱 Shellcode_encryption.exe
+https://s.threatbook.com/report/file/0606827425aefcc44402ce83987efbd90afefb61da29fce19591fe7e27d8f4a5
 ```
 SHA256:0606827425aefcc44402ce83987efbd90afefb61da29fce19591fe7e27d8f4a5
 MD5:8ad44325c56a450d1a2500daaad6fa03
 SHA1:169b434cb4750e3e75079b731dc3c97caee32867
 ```
-https://s.threatbook.com/report/file/0606827425aefcc44402ce83987efbd90afefb61da29fce19591fe7e27d8f4a5
+![图片](https://user-images.githubusercontent.com/34683107/191193300-1a54a15a-a859-41fc-b552-dae0de7ed9c4.png)
+
 
 # 声明
 
